@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/brice_friha/.dotnet/store/|arch|/|tfm|",
+      "/home/brice_friha/.nuget/packages",
+      "/home/brice_friha/.dotnet/sdk/NuGetFallbackFolder"
+    ]
+  }
+}
